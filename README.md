@@ -46,8 +46,8 @@ from sklearn.preprocessing import OrdinalEncoder
 from sklearn.metrics import classification_report,confusion_matrix
 import numpy as np
 import matplotlib.pylab as plt
-customer_df = pd.read_csv('customers.csv')
 
+customer_df = pd.read_csv('customers.csv')
 ```
 
 ## Dataset Information
